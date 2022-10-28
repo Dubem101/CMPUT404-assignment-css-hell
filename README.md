@@ -19,6 +19,8 @@ Added link tag to Google Fonts API for the 'Mirza' font
 
 Adding link to my `gutenberg.css` stylesheet.
 
+Linked the copied images correctly
+
 License/Copyright
 =================
 
