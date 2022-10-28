@@ -12,6 +12,13 @@ Read this comic http://theoatmeal.com/comics/design_hell
 
 git clone https://github.com/abramhindle/CMPUT404-assignment-css-hell.git
 
+Changes to Gutenberg Docs
+=========================
+
+Added link tag to Google Fonts API for the 'Mirza' font
+
+Adding link to my `gutenberg.css` stylesheet.
+
 License/Copyright
 =================
 

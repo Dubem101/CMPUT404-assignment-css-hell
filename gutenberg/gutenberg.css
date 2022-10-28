@@ -1,0 +1,33 @@
+body {
+    font-family: 'Mirza', 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgb(209, 191, 171);
+    color: black;
+}
+
+h1 {
+    font-size: 3rem;
+}
+
+h2 {
+    font-size: 2rem;
+}
+
+p {
+    font-size: 1.25rem;
+    font-style: italic;
+}
+
+img {
+    filter: drop-shadow(0 4px 16px rgba(0, 0, 0, 0.25))
+}
+
+a,
+a:link,
+a:hover,
+a:visited,
+a:active {
+    color: inherit;
+    font-weight: bold;
+    text-decoration: none;
+    text-decoration: underline;
+}
